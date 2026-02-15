@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="position">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm zhaolinyang</h1>
 
-<!--
-**zlyup/zlyup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zlyup&theme=default)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a
+  id="cy-effective-orcid-url"
+  class="underline"
+  href="https://orcid.org/0009-0001-5840-9402"
+  target="orcid.widget"
+  rel="me noopener noreferrer"
+  style="vertical-align: top">
+  <img
+    src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+    style="width: 1em; margin-inline-start: 0.5em"
+    alt="ORCID iD icon"/>
+  https://orcid.org/0009-0001-5840-9402
+</a>
