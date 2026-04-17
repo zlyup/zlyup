@@ -1,6 +1,6 @@
 <h1 align="position">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm zhaolinyang</h1>
 
-![访问计数](https://moe-counter-production-60ed.up.railway.app/@zlyup?theme=tv&scale=0.8)
+![访问计数](https://moe-counter-production-b979.up.railway.app/@zlyup?theme=tv&scale=0.8)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zlyup&theme=default)
 
 <a
